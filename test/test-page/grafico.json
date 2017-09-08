@@ -1,0 +1,1904 @@
+{
+	"chartProps": {
+		"scale": {
+			"primaryScale": {
+				"ticks": 5,
+				"precision": 0,
+				"prefix": "Nº de testes ",
+				"suffix": "",
+				"domain": [
+					0,
+					80
+				],
+				"custom": false,
+				"tickValues": [
+					0,
+					20,
+					40,
+					60,
+					80
+				],
+				"colorIndex": null
+			},
+			"hasDate": true,
+			"dateSettings": {
+				"dateFrequency": "auto",
+				"dateFormat": "auto",
+				"inputTZ": "-03:00",
+				"displayTZ": "as-entered"
+			}
+		},
+		"data": [
+			{
+				"name": "CHINA",
+				"values": [
+					{
+						"name": "CHINA",
+						"entry": "1944-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1947-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1948-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1950-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1951-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1952-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1953-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1954-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1955-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1956-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1957-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1959-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1960-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1961-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1962-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1963-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1964-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1965-12-31T23:00:00.000Z",
+						"value": 3
+					},
+					{
+						"name": "CHINA",
+						"entry": "1966-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1967-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1968-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1969-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1971-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1972-01-01T00:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1973-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1974-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1975-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1976-01-01T00:00:00.000Z",
+						"value": 4
+					},
+					{
+						"name": "CHINA",
+						"entry": "1977-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1978-01-01T00:00:00.000Z",
+						"value": 3
+					},
+					{
+						"name": "CHINA",
+						"entry": "1979-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1980-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1981-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1982-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1983-01-01T00:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1984-01-01T00:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1985-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1985-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1986-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1987-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1988-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1989-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1990-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "CHINA",
+						"entry": "1991-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1992-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "CHINA",
+						"entry": "1993-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1994-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1995-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "CHINA",
+						"entry": "1997-12-31T23:00:00.000Z",
+						"value": 0
+					}
+				]
+			},
+			{
+				"name": "ESTADOS UNIDOS",
+				"values": [
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1944-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1947-12-31T23:00:00.000Z",
+						"value": 3
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1948-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1950-12-31T23:00:00.000Z",
+						"value": 14
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1951-12-31T23:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1952-12-31T23:00:00.000Z",
+						"value": 10
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1953-12-31T23:00:00.000Z",
+						"value": 6
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1954-12-31T23:00:00.000Z",
+						"value": 10
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1955-12-31T23:00:00.000Z",
+						"value": 17
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1956-12-31T23:00:00.000Z",
+						"value": 23
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1957-12-31T23:00:00.000Z",
+						"value": 48
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1959-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1960-12-31T23:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1961-12-31T23:00:00.000Z",
+						"value": 80
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1962-12-31T23:00:00.000Z",
+						"value": 36
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1963-12-31T23:00:00.000Z",
+						"value": 36
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1964-12-31T23:00:00.000Z",
+						"value": 30
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1965-12-31T23:00:00.000Z",
+						"value": 26
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1966-12-31T23:00:00.000Z",
+						"value": 32
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1967-12-31T23:00:00.000Z",
+						"value": 42
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1968-12-31T23:00:00.000Z",
+						"value": 37
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1969-12-31T23:00:00.000Z",
+						"value": 32
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1971-01-01T00:00:00.000Z",
+						"value": 19
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1972-01-01T00:00:00.000Z",
+						"value": 23
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1973-01-01T00:00:00.000Z",
+						"value": 20
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1974-01-01T00:00:00.000Z",
+						"value": 18
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1975-01-01T00:00:00.000Z",
+						"value": 18
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1976-01-01T00:00:00.000Z",
+						"value": 19
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1977-01-01T00:00:00.000Z",
+						"value": 19
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1978-01-01T00:00:00.000Z",
+						"value": 14
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1979-01-01T00:00:00.000Z",
+						"value": 14
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1980-01-01T00:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1981-01-01T00:00:00.000Z",
+						"value": 16
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1982-01-01T00:00:00.000Z",
+						"value": 16
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1983-01-01T00:00:00.000Z",
+						"value": 15
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1984-01-01T00:00:00.000Z",
+						"value": 16
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1985-01-01T00:00:00.000Z",
+						"value": 14
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1985-12-31T23:00:00.000Z",
+						"value": 13
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1986-12-31T23:00:00.000Z",
+						"value": 11
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1987-12-31T23:00:00.000Z",
+						"value": 12
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1988-12-31T23:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1989-12-31T23:00:00.000Z",
+						"value": 7
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1990-12-31T23:00:00.000Z",
+						"value": 6
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1991-12-31T23:00:00.000Z",
+						"value": 4
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1992-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1993-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1994-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1995-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "ESTADOS UNIDOS",
+						"entry": "1997-12-31T23:00:00.000Z",
+						"value": 0
+					}
+				]
+			},
+			{
+				"name": "FRANCA",
+				"values": [
+					{
+						"name": "FRANCA",
+						"entry": "1944-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1947-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1948-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1950-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1951-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1952-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1953-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1954-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1955-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1956-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1957-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1959-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1960-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1961-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1962-12-31T23:00:00.000Z",
+						"value": 3
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1963-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1964-12-31T23:00:00.000Z",
+						"value": 4
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1965-12-31T23:00:00.000Z",
+						"value": 6
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1966-12-31T23:00:00.000Z",
+						"value": 3
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1967-12-31T23:00:00.000Z",
+						"value": 5
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1968-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1969-12-31T23:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1971-01-01T00:00:00.000Z",
+						"value": 4
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1972-01-01T00:00:00.000Z",
+						"value": 3
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1973-01-01T00:00:00.000Z",
+						"value": 6
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1974-01-01T00:00:00.000Z",
+						"value": 7
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1975-01-01T00:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1976-01-01T00:00:00.000Z",
+						"value": 4
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1977-01-01T00:00:00.000Z",
+						"value": 7
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1978-01-01T00:00:00.000Z",
+						"value": 10
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1979-01-01T00:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1980-01-01T00:00:00.000Z",
+						"value": 10
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1981-01-01T00:00:00.000Z",
+						"value": 12
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1982-01-01T00:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1983-01-01T00:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1984-01-01T00:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1985-01-01T00:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1985-12-31T23:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1986-12-31T23:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1987-12-31T23:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1988-12-31T23:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1989-12-31T23:00:00.000Z",
+						"value": 6
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1990-12-31T23:00:00.000Z",
+						"value": 6
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1991-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1992-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1993-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1994-12-31T23:00:00.000Z",
+						"value": 5
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1995-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "FRANCA",
+						"entry": "1997-12-31T23:00:00.000Z",
+						"value": 0
+					}
+				]
+			},
+			{
+				"name": "INDIA",
+				"values": [
+					{
+						"name": "INDIA",
+						"entry": "1944-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1947-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1948-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1950-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1951-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1952-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1953-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1954-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1955-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1956-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1957-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1959-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1960-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1961-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1962-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1963-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1964-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1965-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1966-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1967-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1968-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1969-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1971-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1972-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1973-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1974-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1975-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1976-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1977-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1978-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1979-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1980-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1981-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1982-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1983-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1984-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1985-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1985-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1986-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1987-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1988-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1989-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1990-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1991-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1992-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1993-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1994-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1995-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "INDIA",
+						"entry": "1997-12-31T23:00:00.000Z",
+						"value": 2
+					}
+				]
+			},
+			{
+				"name": "PAQUISTAO",
+				"values": [
+					{
+						"name": "PAQUISTAO",
+						"entry": "1944-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1947-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1948-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1950-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1951-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1952-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1953-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1954-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1955-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1956-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1957-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1959-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1960-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1961-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1962-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1963-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1964-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1965-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1966-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1967-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1968-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1969-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1971-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1972-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1973-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1974-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1975-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1976-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1977-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1978-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1979-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1980-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1981-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1982-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1983-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1984-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1985-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1985-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1986-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1987-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1988-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1989-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1990-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1991-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1992-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1993-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1994-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1995-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "PAQUISTAO",
+						"entry": "1997-12-31T23:00:00.000Z",
+						"value": 2
+					}
+				]
+			},
+			{
+				"name": "REINO UNIDO",
+				"values": [
+					{
+						"name": "REINO UNIDO",
+						"entry": "1944-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1947-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1948-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1950-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1951-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1952-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1953-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1954-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1955-12-31T23:00:00.000Z",
+						"value": 5
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1956-12-31T23:00:00.000Z",
+						"value": 7
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1957-12-31T23:00:00.000Z",
+						"value": 5
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1959-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1960-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1961-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1962-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1963-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1964-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1965-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1966-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1967-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1968-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1969-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1971-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1972-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1973-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1974-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1975-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1976-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1977-01-01T00:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1978-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1979-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1980-01-01T00:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1981-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1982-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1983-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1984-01-01T00:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1985-01-01T00:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1985-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1986-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1987-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1988-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1989-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1990-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1991-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1992-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1993-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1994-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1995-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "REINO UNIDO",
+						"entry": "1997-12-31T23:00:00.000Z",
+						"value": 0
+					}
+				]
+			},
+			{
+				"name": "UNIAO SOVIETICA",
+				"values": [
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1944-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1947-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1948-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1950-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1951-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1952-12-31T23:00:00.000Z",
+						"value": 5
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1953-12-31T23:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1954-12-31T23:00:00.000Z",
+						"value": 5
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1955-12-31T23:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1956-12-31T23:00:00.000Z",
+						"value": 12
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1957-12-31T23:00:00.000Z",
+						"value": 27
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1959-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1960-12-31T23:00:00.000Z",
+						"value": 46
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1961-12-31T23:00:00.000Z",
+						"value": 65
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1962-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1963-12-31T23:00:00.000Z",
+						"value": 2
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1964-12-31T23:00:00.000Z",
+						"value": 6
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1965-12-31T23:00:00.000Z",
+						"value": 10
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1966-12-31T23:00:00.000Z",
+						"value": 10
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1967-12-31T23:00:00.000Z",
+						"value": 7
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1968-12-31T23:00:00.000Z",
+						"value": 10
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1969-12-31T23:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1971-01-01T00:00:00.000Z",
+						"value": 12
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1972-01-01T00:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1973-01-01T00:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1974-01-01T00:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1975-01-01T00:00:00.000Z",
+						"value": 13
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1976-01-01T00:00:00.000Z",
+						"value": 17
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1977-01-01T00:00:00.000Z",
+						"value": 17
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1978-01-01T00:00:00.000Z",
+						"value": 14
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1979-01-01T00:00:00.000Z",
+						"value": 13
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1980-01-01T00:00:00.000Z",
+						"value": 17
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1981-01-01T00:00:00.000Z",
+						"value": 13
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1982-01-01T00:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1983-01-01T00:00:00.000Z",
+						"value": 12
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1984-01-01T00:00:00.000Z",
+						"value": 13
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1985-01-01T00:00:00.000Z",
+						"value": 8
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1985-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1986-12-31T23:00:00.000Z",
+						"value": 10
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1987-12-31T23:00:00.000Z",
+						"value": 9
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1988-12-31T23:00:00.000Z",
+						"value": 6
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1989-12-31T23:00:00.000Z",
+						"value": 1
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1990-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1991-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1992-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1993-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1994-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1995-12-31T23:00:00.000Z",
+						"value": 0
+					},
+					{
+						"name": "UNIAO SOVIETICA",
+						"entry": "1997-12-31T23:00:00.000Z",
+						"value": 0
+					}
+				]
+			}
+		],
+		"input": {
+			"raw": "ANO\tCHINA\tESTADOS UNIDOS\tFRANCA\tINDIA\tPAQUISTAO\tREINO UNIDO\tUNIAO SOVIETICA\n1945\t0\t1\t0\t0\t0\t0\t0\n1948\t0\t3\t0\t0\t0\t0\t0\n1949\t0\t0\t0\t0\t0\t0\t1\n1951\t0\t14\t0\t0\t0\t0\t2\n1952\t0\t8\t0\t0\t0\t0\t0\n1953\t0\t10\t0\t0\t0\t2\t5\n1954\t0\t6\t0\t0\t0\t0\t9\n1955\t0\t10\t0\t0\t0\t0\t5\n1956\t0\t17\t0\t0\t0\t5\t8\n1957\t0\t23\t0\t0\t0\t7\t12\n1958\t0\t48\t0\t0\t0\t5\t27\n1960\t0\t0\t1\t0\t0\t0\t0\n1961\t0\t9\t2\t0\t0\t0\t46\n1962\t0\t80\t1\t0\t0\t2\t65\n1963\t0\t36\t3\t0\t0\t0\t0\n1964\t1\t36\t2\t0\t0\t2\t2\n1965\t1\t30\t4\t0\t0\t1\t6\n1966\t3\t26\t6\t0\t0\t0\t10\n1967\t2\t32\t3\t0\t0\t0\t10\n1968\t1\t42\t5\t0\t0\t0\t7\n1969\t2\t37\t0\t0\t0\t0\t10\n1970\t1\t32\t8\t0\t0\t0\t8\n1971\t1\t19\t4\t0\t0\t0\t12\n1972\t2\t23\t3\t0\t0\t0\t9\n1973\t1\t20\t6\t0\t0\t0\t8\n1974\t1\t18\t7\t0\t0\t1\t9\n1975\t1\t18\t2\t0\t0\t0\t13\n1976\t4\t19\t4\t0\t0\t1\t17\n1977\t1\t19\t7\t0\t0\t0\t17\n1978\t3\t14\t10\t0\t0\t1\t14\n1979\t1\t14\t9\t0\t0\t1\t13\n1980\t1\t9\t10\t0\t0\t2\t17\n1981\t0\t16\t12\t0\t0\t1\t13\n1982\t1\t16\t9\t0\t0\t1\t9\n1983\t2\t15\t9\t0\t0\t1\t12\n1984\t2\t16\t8\t0\t0\t2\t13\n1985\t0\t14\t8\t0\t0\t1\t8\n1986\t0\t13\t8\t0\t0\t1\t0\n1987\t1\t11\t8\t0\t0\t1\t10\n1988\t1\t12\t8\t0\t0\t0\t9\n1989\t0\t9\t8\t0\t0\t1\t6\n1990\t2\t7\t6\t0\t0\t1\t1\n1991\t0\t6\t6\t0\t0\t1\t0\n1992\t2\t4\t0\t0\t0\t0\t0\n1993\t1\t0\t0\t0\t0\t0\t0\n1994\t2\t0\t0\t0\t0\t0\t0\n1995\t2\t0\t5\t0\t0\t0\t0\n1996\t2\t0\t1\t0\t0\t0\t0\n1998\t0\t0\t0\t2\t2\t0\t0"
+		},
+		"chartSettings": [
+			{
+				"altAxis": false,
+				"type": "line",
+				"colorIndex": 4,
+				"label": "CHINA"
+			},
+			{
+				"altAxis": false,
+				"type": "line",
+				"colorIndex": 7,
+				"label": "ESTADOS UNIDOS"
+			},
+			{
+				"altAxis": false,
+				"type": "line",
+				"colorIndex": 3,
+				"label": "FRANCA"
+			},
+			{
+				"altAxis": false,
+				"type": "line",
+				"colorIndex": 10,
+				"label": "INDIA"
+			},
+			{
+				"altAxis": false,
+				"type": "line",
+				"colorIndex": 9,
+				"label": "PAQUISTAO"
+			},
+			{
+				"altAxis": false,
+				"type": "line",
+				"colorIndex": 1,
+				"label": "REINO UNIDO"
+			},
+			{
+				"altAxis": false,
+				"type": "line",
+				"colorIndex": 2,
+				"label": "UNIAO SOVIETICA"
+			}
+		],
+		"extraPadding": {
+			"top": 0,
+			"right": 0,
+			"bottom": 0,
+			"left": 0
+		},
+		"_annotations": {
+			"labels": {
+				"hasDragged": false,
+				"values": [
+					{
+						"name": "CHINA"
+					},
+					{
+						"name": "ESTADOS UNIDOS"
+					},
+					{
+						"name": "FRANÇA"
+					},
+					{
+						"name": "ÍNDIA"
+					},
+					{
+						"name": "PAQUISTÃO"
+					},
+					{
+						"name": "REINO UNIDO"
+					},
+					{
+						"name": "UNIÃO SOVIÉTICA"
+					}
+				]
+			}
+		},
+		"mobile": {
+			"title": "A evolução do programa nuclear bélico em cada país",
+			"scale": {
+				"primaryScale": {
+					"ticks": 5,
+					"precision": 0,
+					"prefix": "",
+					"suffix": "",
+					"domain": [
+						0,
+						80
+					],
+					"custom": false,
+					"tickValues": [
+						0,
+						20,
+						40,
+						60,
+						80
+					],
+					"colorIndex": null
+				},
+				"hasDate": true,
+				"dateSettings": {
+					"dateFrequency": "auto",
+					"dateFormat": "auto",
+					"inputTZ": "-03:00",
+					"displayTZ": "as-entered"
+				}
+			}
+		},
+		"_numSecondaryAxis": 0
+	},
+	"metadata": {
+		"chartType": "xy",
+		"title": "A evolução do programa nuclear em cada país",
+		"source": "Stockholm International Peace Research Institute",
+		"credit": "Valdir Ribeiro Jr",
+		"size": "auto"
+	}
+}
